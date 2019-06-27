@@ -1,13 +1,27 @@
 body{
     background-color: azure;
+    background-image: url(http://k40.kn3.net/091BE6770.jpg);
+}
+
+#hdr{
+    background-color: azure;
+    padding: 2%;
 }
 
 h1{
     background-color: aqua;
-
-    color: brown; /*if you want change the color of the font you can use the propertie: color */
-    text-align: center;/* this property is for the text align and the value is center, so you can see the text in the center of the screen*/
+    color: aliceblue;/*if you want change the color of the font you can use the propertie: color */
+    font-family: Montserrat;    
+  text-align: center;/* this property is for the text align and the value is center, so you can see the text in the center of the screen*/
 }
+
 h2{
-    background-color: aqua;
+    color: aliceblue;
+    font-family: Montserrat;
+}
+
+p{
+    color: aliceblue;
+    font-family: Cardo;
+    font-size: 18px;
 }
