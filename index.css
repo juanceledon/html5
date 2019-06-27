@@ -1,11 +1,27 @@
 body{
     background-color: azure;
+    background-image: url(http://k40.kn3.net/091BE6770.jpg);
+}
+
+#hdr{
+    background-color: azure;
+    padding: 2%;
 }
 
 h1{
-    background-color: aqua;
+    text-align: center;
+    color: aliceblue;
+    font-family: Montserrat;    
+    
 }
 
 h2{
-    background-color: aqua;
+    color: aliceblue;
+    font-family: Montserrat;
+}
+
+p{
+    color: aliceblue;
+    font-family: Cardo;
+    font-size: 18px;
 }
