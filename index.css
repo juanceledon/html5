@@ -4,6 +4,10 @@ body{
 
 h1{
     background-color: aqua;
+
     color: brown; /*if you want change the color of the font you can use the propertie: color */
     text-align: center;/* this property is for the text align and the value is center, so you can see the text in the center of the screen*/
+}
+h2{
+    background-color: aqua;
 }
